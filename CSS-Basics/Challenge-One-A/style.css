@@ -1,0 +1,37 @@
+body{
+  background-color: #E2AB7E;
+  margin: 0 auto;
+  width: 800px;
+}
+
+#wrap {
+  border: 5px dashed black;
+  background-color: #F5F5DB; 
+}
+
+h1 {
+  border-bottom: 5px dashed black;
+  text-align: center;
+  text-transform: none;
+  margin-top: 0;
+}
+
+p {
+  padding: 10px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  text-transform: capitalize;
+  font-style: italic;
+}
+
+li {
+  margin: 0 auto;
+  width: 400px;
+}
+
+span {
+  font-size: 20px;
+}
